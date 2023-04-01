@@ -38,8 +38,9 @@ _Mosaico, Rio de Janeiro, RJ (June 2019 – Present)_
 - Provided code reviews, mentored junior developers, and facilitated technical discussions within the team
 - Actively participated in the Agile development process, including daily stand-ups, sprint planning, and retrospectives
 - Manage AWS infrastructure with Terraform
+
 **Backend Developer**  
-IBM, Rio de Janeiro, RJ (November 2018 – June 2019)
+_IBM, Rio de Janeiro, RJ (November 2018 – June 2019)_
 
 - Developed and maintained backend services for various enterprise applications using Java and the Spring Cloud framework
 - Built RESTful APIs and consumed SOAP services to support application functionality, deploying the APIs on AWS Beanstalk
@@ -47,7 +48,7 @@ IBM, Rio de Janeiro, RJ (November 2018 – June 2019)
 - Monitored application performance using Kibana, identifying and addressing performance bottlenecks
 
 **Backend Developer**  
-B2W Digital, Rio de Janeiro, RJ (February 2016 – November 2018)
+_B2W Digital, Rio de Janeiro, RJ (February 2016 – November 2018)_
 
 - Developed and maintained a 3P paid showcase for e-commerce using Node.js in a microservices architecture, deploying the APIs on AWS Beanstalk
 - Built a new version of the affiliates program, and managed a switch strategy between the two versions
@@ -55,7 +56,7 @@ B2W Digital, Rio de Janeiro, RJ (February 2016 – November 2018)
 - For a short period, worked on a legacy Java application, providing maintenance and improvements
 
 **Web Designer**  
-Censis, Rio de Janeiro, RJ (October 2011 – February 2015)
+_Censis, Rio de Janeiro, RJ (October 2011 – February 2015)_
 
 - Built PHP apps for Facebook pages
 - Designed and implemented layouts for developers
