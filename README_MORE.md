@@ -23,7 +23,8 @@ _University Estácio de Sá, Rio de Janeiro, RJ_
 - Operating Systems: Linux, macOS
 - Monitoring: Kibana
 - APIs: RESTful, SOAP
-- Cloud Services: AWS Athena, AWS Beanstalk
+- Cloud Services: AWS Athena, Beanstalk, EMR, ECS, S3 and more
+- Infrastructure as Code: Terraform
 
 ## Professional Experience 💼
 **Tech Lead / Full Stack Developer**  
@@ -36,29 +37,29 @@ _Mosaico, Rio de Janeiro, RJ (June 2019 – Present)_
 - Implemented messaging systems using Kafka to improve overall application performance
 - Provided code reviews, mentored junior developers, and facilitated technical discussions within the team
 - Actively participated in the Agile development process, including daily stand-ups, sprint planning, and retrospectives
-
+- Manage AWS infrastructure with Terraform
 **Backend Developer**  
 IBM, Rio de Janeiro, RJ (November 2018 – June 2019)
 
-Developed and maintained backend services for various enterprise applications using Java and the Spring Cloud framework
-Built RESTful APIs and consumed SOAP services to support application functionality, deploying the APIs on AWS Beanstalk
-Debugged and resolved issues in production systems, ensuring optimal performance and reliability
-Monitored application performance using Kibana, identifying and addressing performance bottlenecks
+- Developed and maintained backend services for various enterprise applications using Java and the Spring Cloud framework
+- Built RESTful APIs and consumed SOAP services to support application functionality, deploying the APIs on AWS Beanstalk
+- Debugged and resolved issues in production systems, ensuring optimal performance and reliability
+- Monitored application performance using Kibana, identifying and addressing performance bottlenecks
 
 **Backend Developer**  
 B2W Digital, Rio de Janeiro, RJ (February 2016 – November 2018)
 
-Developed and maintained a 3P paid showcase for e-commerce using Node.js in a microservices architecture, deploying the APIs on AWS Beanstalk
-Built a new version of the affiliates program, and managed a switch strategy between the two versions
-Worked with MongoDB, MySQL, AWS Athena, and RabbitMQ to ensure efficient data processing and storage
-For a short period, worked on a legacy Java application, providing maintenance and improvements
+- Developed and maintained a 3P paid showcase for e-commerce using Node.js in a microservices architecture, deploying the APIs on AWS Beanstalk
+- Built a new version of the affiliates program, and managed a switch strategy between the two versions
+- Worked with MongoDB, MySQL, AWS Athena, and RabbitMQ to ensure efficient data processing and storage
+- For a short period, worked on a legacy Java application, providing maintenance and improvements
 
 **Web Designer**  
 Censis, Rio de Janeiro, RJ (October 2011 – February 2015)
 
-Built PHP apps for Facebook pages
-Designed and implemented layouts for developers
-Developed Ruby on Rails sites for content with admin areas and multi-tenant functionality, from lead to main site
+- Built PHP apps for Facebook pages
+- Designed and implemented layouts for developers
+- Developed Ruby on Rails sites for content with admin areas and multi-tenant functionality, from lead to main site
 
 ## GitHub Profile 🐱
 I invite you to explore my GitHub profile, where you can find various projects I have worked on. Many of these projects are small in scale, created as a means to learn and experiment with new technologies and concepts. By navigating through my repositories, you can gain insight into my coding style, problem-solving approach, and commitment to continuous learning:
