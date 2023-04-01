@@ -68,4 +68,6 @@ LinkedIn Profile 💼
 https://www.linkedin.com/in/luizamboni
 
 Personal Interests 🎨🛠️
-In my free time, I enjoy drawing, painting, and tinkering with electronics, such as Arduino and Raspberry Pi. One of my most notable projects was building my
+In my free time, I enjoy drawing, painting, and tinkering with electronics, such as Arduino and Raspberry Pi. One of my most notable projects was building my own arcade machine using wood, a Raspberry Pi, and an old monitor.
+
+Thank you for considering my application. I look forward to discussing my qualifications with you further.
