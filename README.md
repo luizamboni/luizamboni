@@ -20,7 +20,7 @@ I am also enthusiastic about hexagonal and clean architectures, which help to ke
 - Databases: MySQL, MongoDB 🗃️
 - Message Brokers: Kafka, RabbitMQ 💌
 - Version Control: Git, GitHub 🔀
-- Operating Systems: Linux, macOS, Windows 🖥️
+- Operating Systems: Linux, macOS 🖥️
 - Monitoring: Kibana 🔍
 - APIs: RESTful, SOAP 🌐
 - Cloud Services: AWS Athena, AWS Beanstalk ☁️
