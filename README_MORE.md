@@ -20,7 +20,7 @@ _University Estácio de Sá, Rio de Janeiro, RJ_
 - Databases: MySQL, MongoDB
 - Message Brokers: Kafka, RabbitMQ
 - Version Control: Git, GitHub
-- Operating Systems: Linux, macOS, Windows
+- Operating Systems: Linux, macOS
 - Monitoring: Kibana
 - APIs: RESTful, SOAP
 - Cloud Services: AWS Athena, AWS Beanstalk
