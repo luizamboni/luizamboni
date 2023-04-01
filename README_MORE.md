@@ -1,8 +1,14 @@
 # Luiz Zamboni
 _Brazil_  
 _luizamboni2002@hotmail.com_
+As an experienced Tech Lead and Full Stack Developer, I am proficient in various programming languages such as Ruby, Python, Golang, and JavaScript. I am skilled in designing, developing, and maintaining scalable web applications. I have strong experience in RESTful and SOAP APIs, microservices, and cloud services such as AWS. In my previous positions, I have built and maintained APIs and services in a variety of languages and frameworks.
 
-Experienced Tech Lead and Full Stack Developer proficient in various programming languages such as Ruby, Python, Golang, and JavaScript. Skilled in designing, developing, and maintaining scalable web applications. Strong experience in RESTful and SOAP APIs, microservices, and cloud services such as AWS Beanstalk and AWS Athena. Passionate about learning new technologies and committed to continuous learning. 
+I have experience building microservices architectures for complex systems, allowing for easier maintenance and scalability. In addition, I have worked with React, Node.js, and Ghost.js, where I have built custom content components for Ghost.js and plugins for Strapi. I am an advocate for using unit tests as a way to ensure high internal quality, which leads to better external quality.
+
+I am also enthusiastic about hexagonal and clean architectures, which help to keep the codebase maintainable and adaptable to changes. I have experience with big data, data pipelines, and data processing using tools such as Spark, S3, DeltaTables, and Athena.
+
+Overall, my passion for learning new technologies and commitment to continuous learning have helped me develop a deep understanding of software development, from building and maintaining APIs to designing scalable systems.
+
 
 ## Education
 **Technological Degree in Computer Science** _(2016)_  
