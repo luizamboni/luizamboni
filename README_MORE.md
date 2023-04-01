@@ -62,9 +62,11 @@ Developed Ruby on Rails sites for content with admin areas and multi-tenant func
 
 GitHub Profile 🐱
 I invite you to explore my GitHub profile, where you can find various projects I have worked on. Many of these projects are small in scale, created as a means to learn and experiment with new technologies and concepts. By navigating through my repositories, you can gain insight into my coding style, problem-solving approach, and commitment to continuous learning:
+
 https://github.com/luizamboni
 
 LinkedIn Profile 💼
+
 https://www.linkedin.com/in/luizamboni
 
 Personal Interests 🎨🛠️
