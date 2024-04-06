@@ -2,14 +2,17 @@
 Resume - Luiz Zamboni
 ===
 
-**Location:** Rio de Janeiro, RJ, Brazil \
-**Phone:** +55 21 98727 2099 \
-**Email:** luizamboni2002@hotmail.com \
+<div class="contacts">
+**Location:** Rio de Janeiro, RJ, Brazil |
+**Phone:** +55 21 98727 2099 |
+**Email:** luizamboni2002@hotmail.com |
 **Linkedin:** https://www.linkedin.com/in/luiz-zamboni-7354a5a8/
+</div>
 
 ## Overview
 
 ### Description
+<div class="description">
 Data Engineer and FullStack with over 12+ years of experience in Ruby, Python, Golang, and JavaScript with experience in Leadership. 
 
 Expert in developing scalable web applications, APIs, microservices, and AWS cloud solutions. 
@@ -17,17 +20,24 @@ Expert in developing scalable web applications, APIs, microservices, and AWS clo
 Proven track record in data architecture improvement, big data integration, and operational efficiency enhancement. 
 
 Advocates for best practices in software architecture to deliver high-quality data solutions. Aiming to leverage extensive experience in tech leadership roles to drive innovation and scalability in data systems.
+</div>
 
 ### Main Skills
+<div class="main-skills">
 Terraform, Nodejs, Python, Spark, React, Golang, Kubernetes, Java and Software Testing \
+</div>
 
-
+### Languages
+<div class="languages">
+**Portuguese:** Native \
+**English:** Fluent
+</div>
 
 ## Professional Experience
 ### Tech Lead - Full Stack Developer - Data Engineer
 <hr/>
 <div class="company">**Mosaico**</div>
-<div class="period">June 2019 – February 2024<div>
+<div class="period">June 2019 – February 2024</div>
 <div class="chores">
 - Rebuilding the Company's CMS tool using Nodejs and React in Nextjs framework with Typescript.
 
@@ -73,17 +83,15 @@ Terraform, Nodejs, Python, Spark, React, Golang, Kubernetes, Java and Software T
 - Building web applications with RubyOnRails and PHP.
 - Migrating data from legacy to new systems using Python.
 </div>
+
 ## Education
 ### Análise de Sistemas de Computação
+<hr/>
+<div class="period">June 2015 - June 2017</div> 
 **Universidade Estácio de Sá** \
-June 2015 - June 2017 -  Rio de Janeiro, RJ, Brazil 
+Rio de Janeiro, RJ, Brazil 
 
 ## Certificates
-**Advanced Architecting on AWS**\
-October 2022
-
-
-## Languages
-
-**Portuguese:** Native \
-**English:** Fluent
+### Advanced Architecting on AWS
+<hr/>
+<div class="period">October 2022</div>
