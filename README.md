@@ -1,40 +1,76 @@
-### Hi there 👋
-# Luiz Zamboni 😎
-As an experienced Tech Lead and Full Stack Developer, I am proficient in various programming languages such as Ruby, Python, Golang, and JavaScript. 💻  I am skilled in designing, developing, and maintaining scalable web applications.
 
-I have strong experience in RESTful and SOAP APIs, microservices, and cloud services such as AWS. ☁️ In my previous positions, I have built and maintained APIs and services in a variety of languages and frameworks.
+Resume - Luiz Zamboni
+===
 
-I have experience building microservices architectures for complex systems, allowing for easier maintenance and scalability. In addition, I have worked with React, Node.js, and Ghost.js, where I have built custom content components for Ghost.js and plugins for Strapi. I am an advocate for using unit tests as a way to ensure high internal quality, which leads to better external quality. 🔬
+**Location:** Rio de Janeiro, RJ, Brazil \
+**Phone:** +55 21 98727 2099 \
+**Email:** luizamboni2002@hotmail.com \
+**Linkedin:** https://www.linkedin.com/in/luiz-zamboni-7354a5a8/
 
-I am also enthusiastic about hexagonal and clean architectures, which help to keep the codebase maintainable and adaptable to changes. I have experience with big data, data pipelines, and data processing using tools such as Spark, S3, DeltaTables, and Athena. 🌟
+## Overview
 
-## Professional Experience 👨‍💻
-- Tech Lead / Full Stack Developer at Mosaico (June 2019 – Present) 😎
-- Backend Developer at IBM (November 2018 – June 2019) 💻
-- Backend Developer at B2W Digital (February 2016 – November 2018) 🚀
-- Web Designer at Censis (October 2011 – February 2015) 🎨
+Data Engineer and FullStack with over 12+ years of experience in Ruby, Python, Golang, and JavaScript with experience in Leadership. 
 
-## Technical Skills 🧑‍💻
-- Programming Languages: Ruby, Python, Golang, JavaScript, Java, PHP
-- Frameworks: Spring Cloud, Ruby on Rails ⛓️
-- Databases: MySQL, MongoDB 🗃️
-- Message Brokers: Kafka, RabbitMQ 💌
-- Version Control: Git, GitHub 🔀
-- Operating Systems: Linux, macOS 🖥️
-- Monitoring: Kibana 🔍
-- APIs: RESTful, SOAP 🌐
-- Cloud Services: AWS Athena, Beanstalk, EMR, ECS, S3 and more
-- Infrastructure as Code: Terraform
+Expert in developing scalable web applications, APIs, microservices, and AWS cloud solutions. 
 
-## GitHub Profile 🐱
-I invite you to explore my GitHub profile, where you can find various projects I have worked on. Many of these projects are small in scale, created as a means to learn and experiment with new technologies and concepts. By navigating through my repositories, you can gain insight into my coding style, problem-solving approach, and commitment to continuous learning.
+Proven track record in data architecture improvement, big data integration, and operational efficiency enhancement. 
 
-[https://github.com/luizamboni](https://github.com/luizamboni)
+Advocates for best practices in software architecture to deliver high-quality data solutions. Aiming to leverage extensive experience in tech leadership roles to drive innovation and scalability in data systems.
 
-## LinkedIn Profile 💼
-[https://www.linkedin.com/in/luizamboni](https://www.linkedin.com/in/luizamboni)
+### Main Skills
+Terraform, Nodejs, Python, Spark, React, Golang, Kubernetes, Java and Software Testing
 
-## Personal Interests 🎨
-In my free time, I enjoy drawing, painting, and tinkering with electronics, such as Arduino and Raspberry Pi.
+## Professional Experience
+### Tech Lead - Full Stack Developer - Data Engineer Mosaico
+(June 2019 – February 2024)
 
-Thank you for considering my application.
+- Rebuilding the Company's CMS tool using Nodejs and React in Nextjs framework with Typescript.
+
+- Improving the resilience of the entire company's data-moving processes through the creation of reusable modules using Terraform and Python. 
+
+- Classifying offers using Spark Jobs, Fasttext (ML), Golang and Kafka.
+
+- Creating intranet Plugins using Strapi and React
+
+- Maintaining and improving an in-house data ingestion system using Golang, Python, Kafka, SQS, AWS Glue Crawler, AWS Lambda, Spark and Terraform.
+
+
+### Backend Developer at IBM
+(November 2018 – June 2019)
+
+- Developing APIs in Java using Spring Cloud Framework and taking advantage of IO-nonblocking calls.
+        
+### Backend Developer at B2W Digital
+(February 2016 – November 2018)
+  
+- Developing APIs, Workers and UI for B2WADS, using Nodejs Expressjs on Frontend and React on Frontend. Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
+
+  
+### FullStack Engineer & Mobile
+(January 2015 – January 2016)
+- Developing a B2B Web application In RubyOnRais, ElasticSearch and MySql for price comparison.
+- Helping in the development of Android APPs using Java.
+
+### Web Designer at Censis
+(October 2011 – February 2015)
+
+- Building web applications with RubyOnRails and PHP.
+- Migrating data from legacy to new systems using Python.
+
+
+## Education
+**Universidade Estácio de Sá** \
+(June 2015 - June 2017)
+
+Análise de Sistemas de Computação, Rio de Janeiro, RJ, Brazil 
+
+## Certificates
+**Advanced Architecting on AWS**\
+(October 2022)
+
+
+## Languages
+
+**Portuguese:** Native 
+
+**English:** Fluent
