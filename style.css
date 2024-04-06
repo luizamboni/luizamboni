@@ -1,0 +1,28 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 150%;
+}
+
+h1 {
+  /* color: #ccc */
+}
+
+h2 {
+}
+
+h3 {
+    margin-bottom: 0px;
+    margin-top: 30px;
+    padding-bottom: 0px;
+    
+}
+
+.company {
+    float: left;
+    font-size: 12px;
+}
+
+.period {
+    float: right;
+    font-size: 12px;
+}
