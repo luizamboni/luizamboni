@@ -63,7 +63,8 @@ Terraform, Nodejs, Python, Spark, React, Golang, Kubernetes, Java and Software T
 <div class="company">**B2W Digital**</div>
 <div class="period">February 2016 – November 2018</div>
 <div class="chores">
-- Developing APIs, Workers and UI for B2WADS, using Nodejs Expressjs on Frontend and React on Frontend. Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
+- Developing APIs, Workers and UI for B2WADS, using Nodejs with Expressjs on Backend and React on Frontend. 
+Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 </div>
   
 ### FullStack Engineer & Mobile
