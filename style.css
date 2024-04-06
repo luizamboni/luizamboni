@@ -20,9 +20,16 @@ h3 {
 .company {
     float: left;
     font-size: 12px;
+    max-width: 200px;
 }
 
 .period {
     float: right;
     font-size: 12px;
+    max-width: 200xp;
+}
+
+.chores {
+    margin-top: 20px;
+    padding-top: 10px;
 }
