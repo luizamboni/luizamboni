@@ -28,7 +28,7 @@ h3 {
 .company {
     float: left;
     font-size: 12px;
-    max-width: 200px;
+    max-width: 400px;
 }
 
 .period {
@@ -36,10 +36,14 @@ h3 {
     font-size: 12px;
     max-width: 200xp;
 }
-
-.chores {
+.chores-title {
     margin-top: 20px;
     padding-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+}
+.chores {
     font-size: 10px;
 }
 
@@ -59,4 +63,8 @@ h3 {
 .languages {
     margin-top: 10px;
     font-size: 12px;
+}
+
+.tecnologies-and-tools {
+    margin-top: 10px;
 }
