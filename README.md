@@ -30,6 +30,7 @@ Advocates for best practices in software architecture to deliver high-quality da
 
 ## Professional Experience
 ### IT Consulant
+<hr/>
 <div class="company">Pitang/Syngenta - Remote</div>
 <div class="period">May 2019 – August 2024</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -45,6 +46,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 
 
 ### Tech Lead - FullStack Engineer - Data Engineer
+<hr/>
 <div class="company">Mosaico - Rio de Janeiro, RJ, BR - Remote</div>
 <div class="period">June 2019 – February 2024</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -65,7 +67,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 </div>
 
 ### Backend Engineer
-<!-- <hr/> -->
+<hr/>
 <div class="company">IBM - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">November 2018 – June 2019</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -77,7 +79,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 </div>
 
 ### Backend Engineer
-<!-- <hr/> -->
+<hr/>
 <div class="company">B2W Digital - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">February 2016 – November 2018</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -90,7 +92,7 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 </div>
 
 ### FullStack Engineer & Mobile
-<!-- <hr/> -->
+<hr/>
 <div class="company">FullLab - Rio de Janeiro, RJ, BR - Hybrid</div>
 <div class="period">January 2015 – January 2016</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -103,7 +105,7 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 </div>
 
 ### FullStack Engineer
-<!-- <hr/> -->
+<hr/>
 <div class="company">Censis - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">October 2011 – February 2015</div>
 <div class="chores-title">Core Responsibilities:</div>
@@ -117,7 +119,7 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 
 ## Education
 ### Análise de Sistemas de Computação
-<!-- <hr/> -->
+<hr/>
 <div class="period">June 2015 - June 2017</div> 
 <strong>Universidade Estácio de Sá</strong>
 Rio de Janeiro, RJ, Brazil 
