@@ -88,7 +88,6 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 <div class="tecnologies-and-tools">
 <strong>Key Technologies and Tools:</strong> Nodejs, React, Elasticsearch, Redis, MongoDB, MySql, RabbitMQ, AWS
 </div>
-<br/><br/><br/><br/>
 
 ### FullStack Engineer & Mobile
 <!-- <hr/> -->
