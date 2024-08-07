@@ -4,6 +4,7 @@ Resume - Luiz Zamboni
 <div class="subtitle">
 <p>Data Engineer & Fullstack with experience in leadership</p>
 </div>
+
 <div class="contacts">
 <b>Location:</b> Rio de Janeiro, RJ, Brazil |
 <b>Phone:</b> +55 21 98727 2099 |
