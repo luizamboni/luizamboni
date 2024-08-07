@@ -1,11 +1,16 @@
-# Currículo - Luiz Zamboni
+Currículo - Luiz Zamboni
+===
+<div class="subtitle">
+<p>Data Engineer & Fullstack com experiencia em liderança</p>
+</div>
 
-<p class="contacts">
+<div class="contacts">
 <b>Localização:</b> Rio de Janeiro, RJ, Brasil |
 <b>Telefone:</b> +55 21 98727 2099 |
 <b>Email:</b> luizamboni2002@hotmail.com <br/>
-<b>Linkedin:</b> https://www.linkedin.com/in/luiz-zamboni-7354a5a8/
-</p>
+<b>Linkedin:</b> https://www.linkedin.com/in/luiz-zamboni-7354a5a8/ | 
+<b>Github:</b> https://github.com/luizamboni
+</div>
 
 ## Resumo
 <div class="description">
@@ -33,8 +38,8 @@
 <div class="period">Maio 2019 – Agosto 2024</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <p class="chores">
-    Auxiliar no desenvolvimento dos produtos Cropwise para agricultores em plantações de cana-de-açúcar, modularizando e melhorando algoritmos e outros componentes do sistema.
-    Contribuir para a organização escrevendo RFCs e participando de discussões internas visando melhores práticas utilizando inglês escrito.
+- Auxiliar no desenvolvimento dos produtos Cropwise para agricultores em plantações de cana-de-açúcar, modularizando e melhorando algoritmos e outros componentes do sistema.
+- Contribuir para a organização escrevendo RFCs e participando de discussões internas visando melhores práticas utilizando inglês escrito.
 </p>
 <p class="tecnologies-and-tools">
     <b>Tecnologias e Ferramentas Chave:</b> CircleCI, Kubernetes, Serverless (IAC Framework), Python, Kafka, React, AWS, Inglês Escrito
@@ -46,12 +51,19 @@
 <div class="period">Novembro 2018 – Agosto 2022</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
-Desenvolver e integrar serviços backend, bem como supervisionar a migração de aplicações para uma arquitetura baseada em microserviços.
+- Reconstrução da ferramenta CMS da empresa utilizando Node.js e React no framework Next.js com Typescript.
 
-Liderar equipes de desenvolvedores e participar ativamente do planejamento estratégico do departamento de tecnologia.
+- Melhoria da resiliência dos processos de movimentação de dados de toda a empresa através da criação de módulos reutilizáveis usando Terraform e Python.
+
+- Classificação de ofertas utilizando Spark Jobs, Fasttext (ML), Golang e Kafka.
+
+- Criação de Plugins para a intranet utilizando Strapi e React.
+
+- Manutenção e melhoria de um sistema interno de ingestão de dados utilizando Golang, Python, Kafka, SQS, AWS Glue Crawler, AWS Lambda, Spark e Terraform.
+
 </div>
 <p class="tecnologies-and-tools">
-    <b>Tecnologias e Ferramentas Chave:</b> AWS, Docker, Kubernetes, Python, Django, Nodejs, React
+    <b>Tecnologias e Ferramentas Chave:</b> Terraform, Python, Golang, Spark, Kafka, Sqs, S3, Nodejs, React
 </p>
 
 ### Desenvolvedor Backend
@@ -73,8 +85,7 @@ Liderar equipes de desenvolvedores e participar ativamente do planejamento estra
 <div class="period">Fevereiro 2016 – Novembro 2018</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
-Desenvolver APIs, Workers e UI para B2WADS, utilizando Nodejs com Expressjs no Backend e React no Frontend. 
-Também utilizando Elasticsearch, Redis, MongoDB, MySQL e RabbitMQ.
+- Desenvolver APIs, Workers e UI para B2WADS, utilizando Nodejs com Expressjs no Backend e React no Frontend. Também utilizando Elasticsearch, Redis, MongoDB, MySQL e RabbitMQ.
 </div>
 <p class="tecnologies-and-tools">
     <b>Tecnologias e Ferramentas Chave:</b> Nodejs, React, Elasticsearch, Redis, MongoDB, MySQL, RabbitMQ, AWS
@@ -86,9 +97,8 @@ Também utilizando Elasticsearch, Redis, MongoDB, MySQL e RabbitMQ.
 <div class="period">Janeiro 2015 – Janeiro 2016</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
-Desenvolver uma aplicação Web B2B em RubyOnRails, ElasticSearch e MySQL para comparação de preços.
-
-Ajudar no desenvolvimento de APPs Android usando Java.
+- Desenvolver uma aplicação Web B2B em RubyOnRails, ElasticSearch e MySQL para comparação de preços.
+- Ajudar no desenvolvimento de APPs Android usando Java.
 </div>
 <p class="tecnologies-and-tools">
     <b>Tecnologias e Ferramentas Chave:</b> RubyOnRails, JQuery, ElasticSearch, MySQL, Redis, Java, Android
@@ -100,9 +110,8 @@ Ajudar no desenvolvimento de APPs Android usando Java.
 <div class="period">Outubro 2011 – Fevereiro 2015</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
-Construir aplicações web com RubyOnRails e PHP.
-
-Migrar dados de sistemas legados para novos sistemas utilizando Python.
+- Construir aplicações web com RubyOnRails e PHP.
+- Migrar dados de sistemas legados para novos sistemas utilizando Python.
 </div>
 <p class="tecnologies-and-tools">
     <b>Tecnologias e Ferramentas Chave:</b> RubyOnRails, Python, PHP, MySQL, MySQL

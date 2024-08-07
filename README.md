@@ -1,12 +1,15 @@
 
 Resume - Luiz Zamboni
 ===
-
+<div class="subtitle">
+<p>Data Engineer & Fullstack with experience in leadership</p>
+</div>
 <div class="contacts">
-<strong>Location:</strong> Rio de Janeiro, RJ, Brazil |
-<strong>Phone:</strong> +55 21 98727 2099 |
-<strong>Email:</strong> luizamboni2002@hotmail.com <br/>
-<strong>Linkedin:</strong> https://www.linkedin.com/in/luiz-zamboni-7354a5a8/
+<b>Location:</b> Rio de Janeiro, RJ, Brazil |
+<b>Phone:</b> +55 21 98727 2099 |
+<b>Email:</b> luizamboni2002@hotmail.com <br/>
+<b>Linkedin:</b> https://www.linkedin.com/in/luiz-zamboni-7354a5a8/ |
+<b>Github:</b> https://github.com/luizamboni
 </div>
 
 ## Summary
@@ -33,12 +36,12 @@ Advocates for best practices in software architecture to deliver high-quality da
 <hr/>
 <div class="company">Pitang/Syngenta - Remote</div>
 <div class="period">May 2019 – August 2024</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 
-Assisting the development of Cropwise products for growers in sugarcane farmings, modularizing and improving algorithms and other system components.
+- Assisting the development of Cropwise products for growers in sugarcane farmings, modularizing and improving algorithms and other system components.
 
-Contributing to organization writing RFCs and participating in internal discussions aiming for better practices using written English.
+- Contributing to organization writing RFCs and participating in internal discussions aiming for better practices using written English.
 </div>
 <div class="tecnologies-and-tools">
 <strong>Key Technologies and Tools:</strong> CircleCI, Kubernetes, Serverless(IAC Framework), Python, Kafka, React, AWS, English Written
@@ -49,7 +52,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 <hr/>
 <div class="company">Mosaico - Rio de Janeiro, RJ, BR - Remote</div>
 <div class="period">June 2019 – February 2024</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 
 - Rebuilding the Company's CMS tool using Nodejs and React in Nextjs framework with Typescript.
@@ -70,7 +73,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 <hr/>
 <div class="company">IBM - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">November 2018 – June 2019</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 - Developing APIs in Java using Spring Cloud Framework and taking advantage of IO-nonblocking calls.
 </div>
@@ -82,7 +85,7 @@ Contributing to organization writing RFCs and participating in internal discussi
 <hr/>
 <div class="company">B2W Digital - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">February 2016 – November 2018</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 - Developing APIs, Workers and UI for B2WADS, using Nodejs with Expressjs on Backend and React on Frontend. 
 Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
@@ -95,7 +98,7 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 <hr/>
 <div class="company">FullLab - Rio de Janeiro, RJ, BR - Hybrid</div>
 <div class="period">January 2015 – January 2016</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 - Developing a B2B Web application In RubyOnRais, ElasticSearch and MySql for price comparison.
 - Helping in the development of Android APPs using Java.
@@ -108,7 +111,7 @@ Also using Elasticsearch, Redis, MongoDB, MySql and RabbitMQ.
 <hr/>
 <div class="company">Censis - Rio de Janeiro, RJ, BR - In Person</div>
 <div class="period">October 2011 – February 2015</div>
-<div class="chores-title">Core Responsibilities:</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 - Building web applications with RubyOnRails and PHP.
 - Migrating data from legacy to new systems using Python.
