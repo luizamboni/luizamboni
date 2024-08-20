@@ -48,7 +48,7 @@ Currículo - Luiz Zamboni
 ### Líder Técnico - Desenvolvedor FullStack - Engenheiro de Dados
 <hr/>
 <div class="company">Mosaico - Rio de Janeiro, RJ, BR - Remoto</div>
-<div class="period">Novembro 2018 – Agosto 2022</div>
+<div class="period">June 2019 – February 2024</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
 - Reconstrução da ferramenta CMS da empresa utilizando Node.js e React no framework Next.js com Typescript.
