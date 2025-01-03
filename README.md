@@ -33,7 +33,7 @@ Advocates for best practices in software architecture to deliver high-quality da
 
 
 ## Professional Experience
-### IT Expert
+### Staff
 <hr/>
 <div class="company">Luizalabs - Remote</div>
 <div class="period">September 2024 – Now</div>
