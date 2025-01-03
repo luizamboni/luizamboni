@@ -33,10 +33,25 @@ Advocates for best practices in software architecture to deliver high-quality da
 
 
 ## Professional Experience
+### IT Expert
+<hr/>
+<div class="company">Luizalabs - Remote</div>
+<div class="period">September 2024 – Now</div>
+<div class="chores-title"><b>Core Responsibilities:</b></div>
+<div class="chores">
+
+- Helping the squad's management and working closely with other leadership.
+- Dealing with bottlenecks in the development mat, detecting them and properly addressing their solutions. 
+- Working on designing the systems, coding and testing.
+</div>
+<div class="tecnologies-and-tools">
+<strong>Key Technologies and Tools:</strong> MongoDB, Kubernetes, Google Cloud, ArgoCD, Python, FastApi, Design System
+</div>
+
 ### IT Consulant
 <hr/>
 <div class="company">Pitang/Syngenta - Remote</div>
-<div class="period">May 2019 – August 2024</div>
+<div class="period">May 2024 – August 2024</div>
 <div class="chores-title"><b>Core Responsibilities:</b></div>
 <div class="chores">
 

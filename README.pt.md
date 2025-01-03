@@ -31,11 +31,24 @@ Currículo - Luiz Zamboni
 </div>
 
 ## Experiência Profissional
+### Especialista
+<hr/>
+<div class="company">Luizalabs - Remoto</div>
+<div class="period">Setembro 2024 – Now</div>
+<p class="chores-title"><b>Responsabilidades Principais:</b></p>
+<div class="chores">
 
+- Auxiliar a gestão do time trababalhando próximo as outros liderenças.
+- Lidando com gargalos na esteira de desenvolvimento, detectando eles e apropriadamente endereçando a solução. 
+- Trabalhando projetando sistemas, codificando e testando.
+</div>
+<div class="tecnologies-and-tools">
+<strong>Key Technologies and Tools:</strong> MongoDB, Kubernetes, Google Cloud, ArgoCD, Python, FastApi, Design System
+</div>
 ### Consultor de TI
 <hr/>
 <div class="company">Pitang/Syngenta - Remoto</div>
-<div class="period">Maio 2019 – Agosto 2024</div>
+<div class="period">Maio 2024 – Agosto 2024</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <p class="chores">
 - Auxiliar no desenvolvimento dos produtos Cropwise para agricultores em plantações de cana-de-açúcar, modularizando e melhorando algoritmos e outros componentes do sistema.
@@ -48,7 +61,7 @@ Currículo - Luiz Zamboni
 ### Líder Técnico - Desenvolvedor FullStack - Engenheiro de Dados
 <hr/>
 <div class="company">Mosaico - Rio de Janeiro, RJ, BR - Remoto</div>
-<div class="period">June 2019 – February 2024</div>
+<div class="period">Junho 2019 – Fevereiro 2024</div>
 <p class="chores-title"><b>Responsabilidades Principais:</b></p>
 <div class="chores">
 - Reconstrução da ferramenta CMS da empresa utilizando Node.js e React no framework Next.js com Typescript.
