@@ -8,7 +8,7 @@ Currículo - Luiz Zamboni
 <b>Localização:</b> Rio de Janeiro, RJ, Brasil |
 <b>Telefone:</b> +55 21 98727 2099 |
 <b>Email:</b> luizamboni2002@hotmail.com <br/>
-<b>Linkedin:</b> https://www.linkedin.com/in/luiz-zamboni-7354a5a8/ | 
+<b>Linkedin:</b> https://www.linkedin.com/in/luiz-zamboni/ | 
 <b>Github:</b> https://github.com/luizamboni
 </div>
 
